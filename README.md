@@ -2,7 +2,9 @@
 
 * I was born in 2003.
 
-* My biggest hobby is programming, since being 10 years old.
+* My biggest hobby is programming.
+
+* I'm studying for a Cybersecurity degree.
 
 * I also love gaming, mostly simulators, FPS games, and RPG games.
 
