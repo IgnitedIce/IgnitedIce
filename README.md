@@ -1,9 +1,12 @@
 # Hi, I'm `0xRaz` :)
 
-Mostly Full-Stack web developer.
-I love OOP, and I'm interested in Cybersecurity and hacking
-I started programming in Visual Basic as an approximately 10 years old dumb kid.
-Currently a college student working as a web developer.
+> Mostly Full-Stack web developer.
+> 
+> I love OOP, and I'm interested in Cybersecurity and hacking.
+> 
+> I started programming in Visual Basic as an approximately 10 years old dumb kid.
+> 
+> Currently a college student working as a web developer.
 
 ### My top frameworks / systems
 - WordPress
