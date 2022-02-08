@@ -1,8 +1,8 @@
-### Hi, I'm Raz :)
+# Hi, I'm Raz :)
 
 Mostly Full-Stack web developer, started programming in Visual Basic as an approximately 10 years old dumb kid, currently a college student working as a web developer.
 
-My top frameworks / systems:
+### My top frameworks / systems
 - WordPress
   - Expert in the WooCommerce plugin
   - Plugin creator
@@ -10,7 +10,7 @@ My top frameworks / systems:
   - Intermediate knowledge
   - My goto framework for cross-platform development
 
-My top programming languages:
+### My top programming languages
 - PHP
   - Despite its bad reputation, I actually like it
 - Java
