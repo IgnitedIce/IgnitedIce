@@ -8,27 +8,29 @@
 > 
 > Currently a college student working as a web developer.
 
-### My top frameworks / systems
-- WordPress
-  - Expert in the WooCommerce plugin
-  - Plugin creator
+### My frameworks
 - Flutter
   - Intermediate knowledge
   - My goto framework for cross-platform development
+- WordPress (technically a CMS)
+  - WooCommerce expert
+  - Plugin creator
 
-### My top programming languages
+### My programming languages
 - PHP
   - Despite its bad reputation, I actually like it
 - Java
   - One of my first languages, where I discovered object-oriented programming
 - JavaScript
-  - You can't not know JavaScript, am I right?
+  - As a web developer, it would have been very embarrassing if I didn't know JS
 - Dart
   - I love it so much, should be recognized more and not only as the main Flutter language
 - C
-  - You can't consider yourself a programmer without knowing C period
+  - You can't consider yourself a programmer without knowing C...
 - Shell scripting
-  - Aweful syntax but infinite uses
+  - Aweful syntax but infinite use-cases
 - Python
-  - Please don't ever talk to me if your main programming language is Pyth0n, yes I'm a hater :)
+  - Please don't ever talk to me if your main programming language is Pyth0n, yes I'm a big hater :)
+- Go
+  - I started learning Go for a personal project, and even though the syntax is very confusing to learn at first, I love it
 - And hopefully more to come...
