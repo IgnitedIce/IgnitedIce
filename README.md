@@ -6,7 +6,9 @@
 > 
 > I started programming in Visual Basic as an approximately 10 years old dumb kid.
 > 
-> Currently a college student working as a web developer.
+> Currently a college student working as a web developer, and a Linux nerd.
+>
+> Oh, and I use Arch BTW.
 
 ### My frameworks
 - Flutter
