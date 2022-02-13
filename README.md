@@ -4,7 +4,7 @@
 > 
 > I love OOP, and I'm interested in Cybersecurity and hacking.
 > 
-> I started programming in Visual Basic as an approximately 10 years old dumb kid.
+> I started programming in Visual Basic as an approximately 8/9 years old dumb kid (basically programmed like YandereDev).
 > 
 > Currently a college student working as a web developer, and a Linux nerd.
 >
