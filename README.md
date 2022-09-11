@@ -10,13 +10,17 @@
 >
 > Oh, and I use Arch BTW.
 
-### My frameworks
+### My frameworks / CMS's
 - Flutter
   - Intermediate knowledge
   - My goto framework for cross-platform development
-- WordPress (technically a CMS)
+- WordPress
   - WooCommerce expert
   - Plugin creator
+- React.js
+  - I love using React + MUI
+- Chrome Development
+  - I hate it, buy it can be useful
 
 ### My programming languages
 - PHP
@@ -28,7 +32,7 @@
 - Dart
   - I love it so much, should be recognized more and not only as the main Flutter language
 - C
-  - You can't consider yourself a programmer without knowing C...
+  - You can't consider yourself a programmer without knowing C IMO
 - Shell scripting
   - Aweful syntax but infinite use-cases
 - Python
