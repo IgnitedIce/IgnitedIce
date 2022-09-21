@@ -1,42 +1,43 @@
 # Hi, I'm `0xRaz` :)
 
-> Mostly Full-Stack web developer.
+> Experienced with Full-Stack web development.
 > 
-> I love OOP, and I'm interested in Cybersecurity and hacking.
+> Interested in Cybersecurity and Ethical-Hacking.
 > 
-> I started programming in Visual Basic as an approximately 8/9 years old dumb kid (basically programmed like YandereDev).
+> I started programming in Visual Basic as an approximately 8 y.o dumb kid (basically programmed like YandereDev).
 > 
-> Currently a college student working as a web developer, and a Linux nerd.
+> Currently a college student working as a FS web-developer, and a Linux enjoyer.
 >
-> Oh, and I use Arch BTW.
+> Oh, and I use Arch BTW (sometimes).
 
 ### My frameworks / CMS's
 - Flutter
-  - Intermediate knowledge
-  - My goto framework for cross-platform development
+  - Intermediate - Advanced
 - WordPress
-  - WooCommerce expert
-  - Plugin creator
+  - WooCommerce pro
+  - Plugin developer
 - React.js
-  - I love using React + MUI
+  - I love React + MUI
 - Chrome Development
-  - I hate it, buy it can be useful
+  - Intermediate - Advanced
 
-### My programming languages
+### My programming languages (by expertise)
 - PHP
   - Despite its bad reputation, I actually like it
 - Java
-  - One of my first languages, where I discovered object-oriented programming
+  - One of my first languages
 - JavaScript
   - As a web developer, it would have been very embarrassing if I didn't know JS
 - Dart
-  - I love it so much, should be recognized more and not only as the main Flutter language
+  - I love it, it should be used more and not only as the Flutter language imo
 - C
-  - You can't consider yourself a programmer without knowing C IMO
+  - Basic level
+- C++
+  - Basic level
 - Shell scripting
-  - Aweful syntax but infinite use-cases
+  - Basic level
 - Python
-  - Please don't ever talk to me if your main programming language is Pyth0n, yes I'm a big hater :)
+  - Script kiddie level (I hate python's syntax)
 - Go
-  - I started learning Go for a personal project, and even though the syntax is very confusing to learn at first, I love it
-- And hopefully more to come...
+  - Basic level
+- And hopefully more...
