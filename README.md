@@ -11,14 +11,14 @@
 > Oh, and I use Arch BTW (sometimes).
 
 ### My frameworks / CMS's
-- Flutter
-  - Intermediate - Advanced
 - WordPress
   - WooCommerce pro
   - Plugin developer
 - React.js
   - I love React + MUI
 - Chrome Development
+  - Intermediate - Advanced
+- Flutter
   - Intermediate - Advanced
 
 ### My programming languages (by expertise)
