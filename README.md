@@ -1,4 +1,4 @@
-# Hi, I'm `0xRaz` :)
+# Hi, I'm `Raz` :)
 
 > Experienced with Full-Stack web development.
 > 
@@ -8,7 +8,7 @@
 > 
 > Currently a college student working as a FS web-developer, and a Linux enjoyer.
 >
-> Oh, and I use Arch BTW (sometimes).
+> Oh, and I use Arch BTW.
 
 ### My frameworks / CMS's
 - WordPress
