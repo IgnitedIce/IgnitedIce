@@ -1,43 +1,42 @@
 # Hi, I'm `Raz` :)
 
-> Experienced with Full-Stack web development.
+> Mid-Junior Full-Stack web developer.
 > 
 > Interested in Cybersecurity and Ethical-Hacking.
 > 
-> I started programming in Visual Basic as an approximately 8 y.o dumb kid (basically programmed like YandereDev).
+> Started coding in VB as an 8 y.o dumb kid (spaghetti-coded basically like YandereDev).
 > 
-> Currently a college student working as a FS web-developer, and a Linux enjoyer.
+> College student, and an average Linux enjoyer.
 >
 > Oh, and I use Arch BTW.
 
 ### My frameworks / CMS's
-- WordPress
-  - WooCommerce pro
-  - Plugin developer
 - React.js
-  - I love React + MUI
-- Chrome Development
-  - Intermediate - Advanced
+  - Using React with MUI a lot
+- Chrome Extension Development
+  - Intermediate++
 - Flutter
-  - Intermediate - Advanced
+  - Intermediate++
+- WordPress
+  - Plugin developer
+  - WooCommerce professional
 
-### My programming languages (by expertise)
+### My programming languages (listed by expertise)
 - PHP
-  - Despite its bad reputation, I actually like it
+  - Underrated language, 7/10
 - Java
-  - One of my first languages
+  - One of my first languages, 8/10
 - JavaScript
-  - As a web developer, it would have been very embarrassing if I didn't know JS
+  - It's popular for a reason, 10/10
 - Dart
-  - I love it, it should be used more and not only as the Flutter language imo
+  - Underrated language, 8/10
+
+#### Mid-Level and below
 - C
-  - Basic level
 - C++
-  - Basic level
-- Shell scripting
-  - Basic level
-- Python
-  - Script kiddie level (I hate python's syntax)
 - Go
-  - Basic level
-- And hopefully more...
+- Shell scripting
+- Python
+  - I'm one of them haters 😠, overrated language, 5/10
+
+And still learning.
