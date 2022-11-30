@@ -1,6 +1,6 @@
 # Hi, I'm `Raz` :)
 
-> Mid-Junior Full-Stack web developer.
+> Mid-Level Full-Stack web developer.
 > 
 > Interested in Cybersecurity and Ethical-Hacking.
 > 
@@ -23,19 +23,19 @@
 
 ### My programming languages (listed by expertise)
 - PHP
-  - Underrated language, 7/10
+  - Overhated and underrated language, 7/10
 - Java
   - One of my first languages, 8/10
-- JavaScript
-  - It's popular for a reason, 10/10
+- JavaScript & TypeScript
+  - They're popular for a reason, 10/10
 - Dart
-  - Underrated language, 8/10
+  - Beautiful language, 8/10
 
 #### Mid-Level and below
 - C
 - C++
 - Go
-- Shell scripting
+- Shell
 - Python
   - I'm one of them haters 😠, overrated language, 5/10
 
