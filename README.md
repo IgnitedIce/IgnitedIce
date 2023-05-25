@@ -6,37 +6,41 @@
 > 
 > Started coding in VB as an 8 y.o dumb kid (spaghetti-coded basically like YandereDev).
 > 
-> College student, and an average Linux enjoyer.
+> Cybersecurity & IT college graduate, and an average Linux enjoyer.
 >
-> Oh, and I use Arch BTW.
+> Oh, and I use Lazy Arch BTW (Manjaro).
 
-### My frameworks / CMS's
+### Titles
+
+- Full-Stack web developer (employed since 2021)
+
+- IT practical engineer
+
+### My top frameworks / CMS's
 - React.js
   - Using React with MUI a lot
-- Chrome Extension Development
-  - Intermediate++
+- Chrome Extensions
+  - Powerful but nightmare to code
 - Flutter
-  - Intermediate++
+  - I forgot all of it, but used to love it a lot
 - WordPress
   - Plugin developer
-  - WooCommerce professional
+  - WooCommerce expert
 
-### My programming languages (listed by expertise)
+### My top programming languages (listed by expertise)
 - PHP
-  - Overhated and underrated language, 7/10
+  - Over(h)ated and underrated language, 8/10
 - Java
   - One of my first languages, 8/10
 - JavaScript & TypeScript
   - They're popular for a reason, 10/10
+- C++
+  - The GOAT
 - Dart
   - Beautiful language, 8/10
 
 #### Mid-Level and below
-- C
-- C++
 - Go
 - Shell
 - Python
   - I'm one of them haters 😠, overrated language, 5/10
-
-And still learning.
