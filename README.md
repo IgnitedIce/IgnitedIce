@@ -12,7 +12,7 @@
 
 ### Titles
 
-- Full-Stack web developer (employed since 2021)
+- Senior Full-Stack web developer
 
 - IT practical engineer
 
