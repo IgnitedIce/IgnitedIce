@@ -10,7 +10,7 @@
 - React.js
 - Chrome Extensions development
 - WordPress plugins (specifically WooCommerce)
-- Google Cloud
+- Google Cloud & Firebase
 
 ### What programming languages I use the most
 - **listed by use and expertise**
