@@ -11,6 +11,7 @@
 - Chrome Extensions development
 - WordPress plugins (specifically WooCommerce)
 - Google Cloud & Firebase
+- Linux (I use Arch BTW)
 
 ### What programming languages I use the most
 - **listed by use and expertise**
@@ -23,7 +24,7 @@
 
 ### What I'm not so good at
 - Go
-- Linux / Windows Shell scripting
+- Linux & Windows Shell scripting
 
 ### What I really should learn
 - .Net
