@@ -1,46 +1,36 @@
 # Hi, I'm `Raz` :)
 
-> Mid-Level Full-Stack web developer.
+### Who am I?
+
+> Full-Stack web developer, most experienced in PHP
 > 
-> Interested in Cybersecurity and Ethical-Hacking.
+> Started coding in Visual Basic around 2012
 > 
-> Started coding in VB as an 8 y.o dumb kid (spaghetti-coded basically like YandereDev).
-> 
-> Cybersecurity & IT college graduate, and an average Linux enjoyer.
->
-> Oh, and I use Lazy Arch BTW (Manjaro).
+> IT practical engineer (with a focus on Cybersecurity and specifically Fortinet firewalls)
 
-### Titles
-
-- Senior Full-Stack web developer
-
-- IT practical engineer
-
-### My top frameworks / CMS's
+### What I'm good at
 - React.js
-  - Using React with MUI a lot
-- Chrome Extensions
-  - Powerful but nightmare to code
-- Flutter
-  - I forgot all of it, but used to love it a lot
-- WordPress
-  - Plugin developer
-  - WooCommerce expert
+- Chrome Extensions development
+- WordPress plugins (specifically WooCommerce)
+- Google Cloud
 
-### My top programming languages (listed by expertise)
+### What programming languages I use the most
+- **listed by use and expertise**
 - PHP
-  - Over(h)ated and underrated language, 8/10
-- Java
-  - One of my first languages, 8/10
 - JavaScript & TypeScript
-  - They're popular for a reason, 10/10
+- Java
 - C++
-  - The GOAT
-- Dart
-  - Beautiful language, 8/10
+- Dart (for Flutter)
+- Python (I hate it)
 
-#### Mid-Level and below
+### What I'm not so good at
 - Go
-- Shell
-- Python
-  - I'm one of them haters 😠, overrated language, 5/10
+- Linux / Windows Shell scripting
+
+### What I really should learn
+- .Net
+- MS Azure
+- Rust
+- MCSE & CCNA
+- Programming conventions and best practices (I never learned coding professionally)
+- Web3
