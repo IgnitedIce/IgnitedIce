@@ -4,7 +4,7 @@
 
 - Full-Stack web developer, most experienced in PHP
 - Started coding in Visual Basic around 2012 
-- IT practical engineer (with a focus on Cybersecurity and specifically Fortinet firewalls)
+- ICT practical engineer (with a focus on Cybersecurity and specifically Fortinet firewalls)
 
 ### What I'm good at
 - React.js
