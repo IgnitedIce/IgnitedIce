@@ -3,7 +3,7 @@
 ### Who am I?
 
 - Full-Stack web developer, most experienced in PHP
-- Started coding in Visual Basic around 2012 
+- Started coding in Visual Basic around 2010
 - ICT practical engineer (with a focus on Cybersecurity and specifically Fortinet firewalls)
 
 ### What I'm good at
